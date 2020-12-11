@@ -2,7 +2,8 @@
 
 ## [GC](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/)
 
-- [Avoid GC Pressure](https://michaelscodingspot.com/avoid-gc-pressure/)
+- [Avoid GC Pressure](https://michaelscodingspot.com/avoid-gc-pressure/).
+- [Garbage Collector - Understanding IDisposable](https://www.codingame.com/playgrounds/6179/garbage-collection-and-c).
 
 ## Memory Leak
 
