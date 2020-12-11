@@ -4,6 +4,11 @@
 
 - [Avoid GC Pressure](https://michaelscodingspot.com/avoid-gc-pressure/)
 
+## Memory Leak
+
+- [8 Ways You can Cause Memory Leaks in .NET](https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/)
+- [Find, Fix, and Avoid Memory Leaks in C# .NET: 8 Best Practices](https://michaelscodingspot.com/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/)
+
 ## [Span](https://docs.microsoft.com/en-us/dotnet/api/system.span-1)
 
 - [Msdn Span](https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/january/csharp-all-about-span-exploring-a-new-net-mainstay).
