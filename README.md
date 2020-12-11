@@ -5,6 +5,7 @@
 - [Avoid GC Pressure](https://michaelscodingspot.com/avoid-gc-pressure/).
 - [Garbage Collector - Understanding IDisposable](https://www.codingame.com/playgrounds/6179/garbage-collection-and-c).
 - [Garbage Collection in C#](https://www.geeksforgeeks.org/garbage-collection-in-c-sharp-dot-net-framework/).
+- [Making .NET code less allocatey](https://blog.maartenballiauw.be/post/2016/10/19/making-net-code-less-allocatey-garbage-collector.html).
 
 ## Memory Leak
 
