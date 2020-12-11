@@ -1,5 +1,8 @@
 # DotNetGoods
 
+## [GC](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/)
+
+- [Avoid GC Pressure](https://michaelscodingspot.com/avoid-gc-pressure/)
 
 ## [Span](https://docs.microsoft.com/en-us/dotnet/api/system.span-1)
 
