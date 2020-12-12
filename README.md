@@ -21,3 +21,7 @@
 - [Span - Adam Sitnik](https://adamsitnik.com/Span/).
 - [Span<T> - byte to int conversions](https://adamstorr.azurewebsites.net/blog/span-t-byte-int-conversions-update).
 - [Struct Serialization with Spans](https://ladeak.wordpress.com/2018/12/28/struct-serialization-with-spans/).
+
+## Serialization
+
+- [Custom Binary Serialization in C#](https://jbp.dev/blog/custom-binary-serialization.html).
