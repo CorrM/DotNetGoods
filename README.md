@@ -20,3 +20,4 @@
 - [AN INTRODUCTION TO OPTIMISING CODE USING SPAN<T>](https://www.stevejgordon.co.uk/an-introduction-to-optimising-code-using-span-t).
 - [Span - Adam Sitnik](https://adamsitnik.com/Span/).
 - [Span<T> - byte to int conversions](https://adamstorr.azurewebsites.net/blog/span-t-byte-int-conversions-update).
+- [Struct Serialization with Spans](https://ladeak.wordpress.com/2018/12/28/struct-serialization-with-spans/).
