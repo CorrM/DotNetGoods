@@ -31,3 +31,4 @@
 
 - [Understanding the Whys, Whats, and Whens of ValueTask](https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/).
 - [Prefer ValueTask to Task, always; and don't await twice](https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html).
+- [When To Consider Using Valuetask Over Task With Async Code](https://www.vaughanreid.com/2020/06/when-to-consider-using-valuetask-over-task-with-async-code/).
