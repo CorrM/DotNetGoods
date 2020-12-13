@@ -27,8 +27,7 @@
 
 - [Custom Binary Serialization in C#](https://jbp.dev/blog/custom-binary-serialization.html).
 
-## Asynchronous
+## [Asynchronous](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
 
-- [Asynchronous programming with async and await](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/).
 - [Understanding the Whys, Whats, and Whens of ValueTask](https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/).
 - [Prefer ValueTask to Task, always; and don't await twice](https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html).
