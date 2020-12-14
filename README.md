@@ -38,3 +38,7 @@
 
 - [Top 10 Static Code Quality Analysers](https://bharatdwarkani.medium.com/top-10-code-quality-static-analysers-for-asp-net-core-1660ad7a8d61).
 - [Static code analysis for your C# projects](https://samanthaneilen.github.io/2019/06/22/Static-code-analysis-for-your-csharp-projects.html).
+
+## General
+
+[How to resolve .NET reference and NuGet package version conflicts](https://michaelscodingspot.com/how-to-resolve-net-reference-and-nuget-package-version-conflicts/).
