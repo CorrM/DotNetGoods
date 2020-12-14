@@ -7,6 +7,7 @@
 - [Garbage Collection in C#](https://www.geeksforgeeks.org/garbage-collection-in-c-sharp-dot-net-framework/).
 - [Making .NET code less allocatey](https://blog.maartenballiauw.be/post/2016/10/19/making-net-code-less-allocatey-garbage-collector.html).
 - [How to GC collect Attributes in C#?](https://stackoverflow.com/questions/30095239/how-to-gc-collect-attributes-in-c).
+- [5 Tips and Techniques for Avoiding Automatic GC Collections](https://www.red-gate.com/simple-talk/dotnet/net-framework/5-tips-and-techniques-for-avoiding-automatic-gc-collections/)
 
 ## Memory Leak
 
