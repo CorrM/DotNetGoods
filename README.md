@@ -44,6 +44,16 @@
 - [Top 10 Static Code Quality Analysers](https://bharatdwarkani.medium.com/top-10-code-quality-static-analysers-for-asp-net-core-1660ad7a8d61).
 - [Static code analysis for your C# projects](https://samanthaneilen.github.io/2019/06/22/Static-code-analysis-for-your-csharp-projects.html).
 
+## High Performance
+
+- [Ref struct, ref readonly struct, ref returning, ref everything, Konrad Kokosa](https://www.youtube.com/watch?v=touhHCD7RIc).
+- [High-performance code design patterns in C# Konrad Kokosa](https://www.youtube.com/watch?v=3r6gbZFRDHs).
+- [Turbocharged: Writing High-Performance C# and .NET Code - Steve Gordon](https://www.youtube.com/watch?v=CwISe8blq38).
+- [High performance servers with NET Core](https://www.youtube.com/watch?v=Zx87SEQpzfE).
+- [Patterns for high-performance C# - Federico Lois](https://www.youtube.com/watch?v=7GTpwgsmHgU).
+- [Patterns for high-performance C# - Federico Lois](https://www.youtube.com/watch?v=4yALYEINbyI).
+- [Writing High-Performance C# and .NET Code - .Net Oxford](https://www.youtube.com/watch?v=NVWQRbqcXJ4).
+
 ## General
 
 [How to resolve .NET reference and NuGet package version conflicts](https://michaelscodingspot.com/how-to-resolve-net-reference-and-nuget-package-version-conflicts/).
