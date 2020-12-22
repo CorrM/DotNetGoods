@@ -42,6 +42,7 @@
 
 ## High Performance
 
+- [.Net Memory Allocations and Performance](https://www.youtube.com/watch?v=aylUPfOVM90).
 - [Ref struct, ref readonly struct, ref returning, ref everything, Konrad Kokosa](https://www.youtube.com/watch?v=touhHCD7RIc).
 - [High-performance code design patterns in C# Konrad Kokosa](https://www.youtube.com/watch?v=3r6gbZFRDHs).
 - [Turbocharged: Writing High-Performance C# and .NET Code - Steve Gordon](https://www.youtube.com/watch?v=CwISe8blq38).
