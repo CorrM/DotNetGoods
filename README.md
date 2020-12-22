@@ -9,7 +9,7 @@
 - [How to GC collect Attributes in C#?](https://stackoverflow.com/questions/30095239/how-to-gc-collect-attributes-in-c).
 - [5 Tips and Techniques for Avoiding Automatic GC Collections](https://www.red-gate.com/simple-talk/dotnet/net-framework/5-tips-and-techniques-for-avoiding-automatic-gc-collections/)
 
-## Memory Leak
+## [Memory Leak](https://en.wikipedia.org/wiki/Memory_leak)
 
 - [8 Ways You can Cause Memory Leaks in .NET](https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/)
 - [Find, Fix, and Avoid Memory Leaks in C# .NET: 8 Best Practices](https://michaelscodingspot.com/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/)
@@ -35,7 +35,7 @@
 - [Prefer ValueTask to Task, always; and don't await twice](https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html).
 - [When To Consider Using Valuetask Over Task With Async Code](https://www.vaughanreid.com/2020/06/when-to-consider-using-valuetask-over-task-with-async-code/).
 
-## Static Code Quality
+## [Static Code Quality](https://en.wikipedia.org/wiki/Static_program_analysis)
 
 - [Top 10 Static Code Quality Analysers](https://bharatdwarkani.medium.com/top-10-code-quality-static-analysers-for-asp-net-core-1660ad7a8d61).
 - [Static code analysis for your C# projects](https://samanthaneilen.github.io/2019/06/22/Static-code-analysis-for-your-csharp-projects.html).
