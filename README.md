@@ -52,6 +52,10 @@
 - [Writing High-Performance C# and .NET Code - .Net Oxford](https://www.youtube.com/watch?v=NVWQRbqcXJ4).
 - [Find, Fix, and Avoid Performance Problems in C# .NET: 10 Best Practices](https://michaelscodingspot.com/performance-problems-in-csharp-dotnet/).
 
+# Delegates
+
+- [Understanding the cost of C# delegates](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/)
+
 ## General
 
 [How to resolve .NET reference and NuGet package version conflicts](https://michaelscodingspot.com/how-to-resolve-net-reference-and-nuget-package-version-conflicts/).
